@@ -28,7 +28,7 @@ libDrive is a Google Drive media library manager and indexer, similar to Plex, t
 
 I decided to create this project to, of course, organize my Google Drive library, but also develop my coding skills, and learn JavaScript in the process.
 
-This repository (<https://github.com/libDrive/heroku>) stores the source code for the [Heroku](https://heroku.com) deployment of libDrive.
+This repository (<https://github.com/zoravar08/heroku>) stores the source code for the [Heroku](https://heroku.com) deployment of libDrive.
 
 ## Source code
 
